@@ -1,5 +1,5 @@
 {
-  "name": "talk-react-and-redux",
+  "name": "react-and-redux-starterkit",
   "private": true,
   "scripts": {
     "build": "npm install && NODE_ENV=production webpack -p --config webpack.prod.config.js",
